@@ -1,4 +1,4 @@
-# CircleCI Demo Application: Ruby on Rails [![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-demo-ruby-rails.svg?style=svg)](https://circleci.com/gh/CircleCI-Public/circleci-demo-ruby-rails)
+# CircleCI Demo Application: Ruby on Rails [![CircleCI](https://dl.circleci.com/status-badge/img/gh/labs-data/circleci-demo-ruby-rails/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/labs-data/circleci-demo-ruby-rails/tree/master)
 
 This is an example application showcasing how to run a Ruby on Rails app on CircleCI 2.0 using 2.1 configuration.
 
